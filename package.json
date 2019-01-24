@@ -1,0 +1,22 @@
+{
+  "name": "@app-sdk/services",
+  "version": "1.0.0",
+  "description": "common app services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saeedPadyab/services.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saeedPadyab/services/issues"
+  },
+  "homepage": "https://github.com/saeedPadyab/services#readme",
+  "dependencies": {
+    "react-native-event-listeners": "^1.0.3"
+  }
+}
