@@ -1,6 +1,6 @@
 {
   "name": "@app-sdk/services",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "common app services",
   "main": "index.js",
   "publishConfig": {
